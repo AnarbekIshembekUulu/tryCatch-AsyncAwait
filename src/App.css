@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins";
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    font-size: 18px;
+    font-weight: 500;
+    width: 147px;
+    height: 35px;
+    border-style: none;
+    background: rgb(34, 38, 42);
+    color: #fff;
+    text-transform: uppercase;
+}
+
+p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}

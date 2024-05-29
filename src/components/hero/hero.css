@@ -1,0 +1,24 @@
+h1 {
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 120px;
+}
+
+.hero__background {
+    height: calc(100vh - 83px);
+    background: url(../../img/heroBackground.jpeg) no-repeat center/cover;
+    position: relative;
+}
+
+.hero__container {
+    max-width: 453px;
+    position: absolute;
+    right: 231px;
+    bottom: 101px;
+}
+
+.btn__container {
+    margin-top: 27px;
+    display: flex;
+    gap: 34px;
+}

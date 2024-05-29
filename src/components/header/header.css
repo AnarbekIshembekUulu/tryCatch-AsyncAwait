@@ -1,0 +1,13 @@
+header {
+    height: 83px;
+    padding: 0px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__menu {
+    display: flex;
+    gap: 30px;
+    text-transform: uppercase;
+}
